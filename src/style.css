@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.root {
+  background-color: aquamarine;
+}
+.container {
+  display: flex;
+}
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: pink;
+  margin-right: 20px;
+}
